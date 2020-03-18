@@ -43,3 +43,11 @@ story = Story(
     """Once upon a time in a long-ago {place}, there lived a
        large {adjective} {noun}. It loved to {verb} {plural_noun}."""
 )
+
+# answers = {
+#     "place":"school",
+#     "noun":"beans", 
+#     "verb":"walk",
+#     "adjective":"shiny",
+#     "plural_noun":"wolves"
+#     }
